@@ -14,3 +14,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=altinbarin&show_icons=true&locale=en" alt="altinbarin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=altinbarin&" alt="altinbarin" /></p>
+
+![snake gif](https://github.com/altinbarin/altinbarin/blob/output/github-contribution-grid-snake.gif)
