@@ -15,5 +15,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=altinbarin&" alt="altinbarin" /></p>
 
-
-![snake gif](https://github.com/altinbarin/altinbarin/blob/output/github-contribution-grid-snake.gif)
