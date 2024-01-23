@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
-<h3 align="center">I'm a Software developer with solid skills. I have experience with well-known ORM frameworks like Entity Framework and Dapper. I'm also proficient in CSS, JavaScript, and HTML5, and have a good grasp of database management, especially with MS SQL. I completed my software development training at the BilgeAdam Boost Developer Program. I'm genuinely passionate about coding and can quickly learn and adapt to new technologies.</h3>
+<h3 align="center">I'm a Software developer with solid skills. I have experience with .Net Core, well-known ORM frameworks like Entity Framework and Dapper. I'm also proficient in React, CSS, JavaScript, and HTML5, and have a good grasp of database management, especially with MS SQL and version controll systems like Git. I completed my software development training at the BilgeAdam Boost Developer Program. I'm genuinely passionate about coding and can quickly learn and adapt to new technologies.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
